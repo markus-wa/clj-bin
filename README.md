@@ -8,7 +8,9 @@ with some fancy magical execution stuff.
 
 ## TODO: Update Docs ⚠️
 
-Below this point are still the old leiningen docs
+Below this point are still the old leiningen docs.
+
+If you need a quick example, see [here](https://github.com/markus-wa/clj-bin/blob/master/uberdeps/package.sh#L9) for now
 
 ## Latest version
 
