@@ -31,10 +31,10 @@
     :default false]
    [nil "--skip-realign"
     :default false]
-   [nil "--jvm-opts"]
-   [nil "--win-jvm-opts"]
-   [nil "--custom-preamble"]
-   [nil "--custom-preamble-script"]
+   [nil "--jvm-opts OPTS"]
+   [nil "--win-jvm-opts OPTS"]
+   [nil "--custom-preamble STRING"]
+   [nil "--custom-preamble-script PATH"]
    ["-h" "--help"]])
 
 (defn validate-args
