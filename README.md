@@ -1,24 +1,14 @@
-# lein-binplus
+# clj-bin
 
-A Leiningen plugin for producing standalone console executables that
-work on OS X, Linux, and Windows.
+A fork of [lein-binplus](https://github.com/BrunoBonacci/lein-binplus) for deps.edn.
+Produces standalone console executables that work on OS X, Linux, and Windows.
 
 It basically just takes your uberjar and stuffs it in another file
 with some fancy magical execution stuff.
 
-**NOTE: This is a fork of
-[Raynes/lein-bin](https://github.com/Raynes/lein-bin)
-with the addition of several bug-fixes and improvements.**
-
-Sadly, [@Raynes passed away last December (2016)](https://cemerick.com/2016/12/07/rip-anthony-grimes/)
-therefore I decided to fork the project and carry on the development in my own copy.
-
-It is compatible with the original and it is a *drop-in replacement* for it,
-you just need to update the dependency.
-
 ## Latest version
 
-[![Clojars Project](https://img.shields.io/clojars/v/lein-binplus.svg)](https://clojars.org/lein-binplus)
+[![Clojars Project](https://img.shields.io/clojars/v/clj-bin.svg)](https://clojars.org/clj-bin)
 
 ## Usage
 

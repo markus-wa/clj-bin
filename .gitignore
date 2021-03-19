@@ -8,3 +8,7 @@
 /.lein-deps-sum
 /target
 /pom.xml.asc
+.lsp/
+.clj-kondo/
+.cpcache/
+.nrepl-port
