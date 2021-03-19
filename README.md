@@ -6,11 +6,16 @@ Produces standalone console executables that work on OS X, Linux, and Windows.
 It basically just takes your uberjar and stuffs it in another file
 with some fancy magical execution stuff.
 
+## TODO: Update Docs ⚠️
+
+Below this point are still the old leiningen docs
+
 ## Latest version
 
 [![Clojars Project](https://img.shields.io/clojars/v/clj-bin.svg)](https://clojars.org/clj-bin)
 
 ## Usage
+
 
 This is a leiningen plugin. If you're using lein 1, run `lein plugin
 install lein-binplus <current-version>` to install it.  If you're using
